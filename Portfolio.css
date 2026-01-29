@@ -1,0 +1,87 @@
+body{
+    background-color: white;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(252, 252, 252);
+    font-size: 350%;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: large;
+    margin-top: -2%;
+}
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    margin-top: 4%;
+    
+}
+#fdiv{
+    background: linear-gradient(135deg, #3f004f, #4b0066, #6e0084);
+    margin-right: 43%;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+P{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 12%;
+    text-align: justify;
+}
+.head1{
+    display: flex;
+    gap:50px;
+    color: rgb(0, 0, 0);
+    margin-top: -19%;
+}
+#mdiv{
+    margin-top: 1%;
+}
+img{
+    margin-top: 0%;
+    width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+#limg{
+    width: 200px;
+    height: 250px;
+    padding-left: 1050px;
+    padding-bottom: 10px;
+}
+.curved-button {
+    padding: 15px 35px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #4a6cf7;
+    border: none;
+    border-radius: 15px; /* Curved edges */
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.curved-button:hover {
+    background-color: #3b5bdb;
+    transform: scale(1.05);
+}
+.curved-button {
+    padding: 15px 35px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #9300bc;
+    border: none;
+    border-radius: 15px; /* Curved edges */
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.curved-button:hover {
+    background-color: #790779;
+    transform: scale(1.05);
+}
